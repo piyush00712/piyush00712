@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                                                        💫 About Me:
 🔭 I’m currently working on Building out my project portfolio ahead of summer internship applications — currently focused on full-stack apps using Node.js, Express, MySQL/MongoDB.<br>👯 I’m looking to collaborate on Open-source or student-led web development projects, especially anything involving cloud deployment or network-focused tooling.<br>🤝 I’m looking for help with Sharpening my system design skills and getting exposure to real-world cloud infrastructure practices.<br>🌱 I’m currently learning Cloud computing fundamentals, RESTful API design, and networking concepts (currently deep in my Networks module at TUS<br>💬 Ask me about Node.js/Express development, MySQL & MongoDB, or breaking into tech from a non-traditional (retail/hospitality) work background.<br>⚡ Fun fact I've worked everywhere from cafés to warehouses before landing in software — turns out debugging a POS system and debugging code aren't that different.
 
 
